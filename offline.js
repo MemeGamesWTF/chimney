@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1734929529,
+	"version": 1734941132,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -15,6 +15,15 @@
 		"images/sprite-sheet0.png",
 		"images/sprite-sheet1.png",
 		"images/sprite-sheet2.png",
+		"images/particles.png",
+		"images/asset14x-sheet0.png",
+		"images/asset14x-sheet1.png",
+		"images/asset14x-sheet2.png",
+		"images/asset14x-sheet3.png",
+		"images/asset14x-sheet4.png",
+		"images/asset14x-sheet5.png",
+		"media/xmas game 2024 - bgm.m4a",
+		"media/xmas game 2024 - bgm.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
