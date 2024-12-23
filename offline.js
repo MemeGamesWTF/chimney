@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1734941132,
+	"version": 1734943892,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -22,6 +22,13 @@
 		"images/asset14x-sheet3.png",
 		"images/asset14x-sheet4.png",
 		"images/asset14x-sheet5.png",
+		"images/xmaschimneysanta-sheet0.png",
+		"media/chimes.m4a",
+		"media/chimes.ogg",
+		"media/pop (1).m4a",
+		"media/pop (1).ogg",
+		"media/santa.m4a",
+		"media/santa.ogg",
 		"media/xmas game 2024 - bgm.m4a",
 		"media/xmas game 2024 - bgm.ogg",
 		"icon-16.png",
